@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.21">
+	<ConfigVersions>
+		<Metadata name="CommonModule.s3Клиент" id="c344e159-ce54-4e29-85ae-790cbf26c9ec" configVersion="5b3c9d612ea079459e9ee2fd31578f3700000000"/>
+		<Metadata name="CommonModule.s3Клиент.Module" id="c344e159-ce54-4e29-85ae-790cbf26c9ec.0" configVersion="d26ee290912ff9489c068fef95846aaa00000000"/>
+		<Metadata name="Configuration.s3client" id="f6e12870-d63f-460d-b110-cdc3cdc0e58c" configVersion="96a8a5064410e14f8c912cf44a39821400000000"/>
+		<Metadata name="Language.Русский" id="b0c7139c-25a8-450b-ac9f-d72ef210e956" configVersion="c9563df251da3a47a4d011fed53a28d100000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>

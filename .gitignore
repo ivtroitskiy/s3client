@@ -1,0 +1,48 @@
+# Local agent/runtime files
+.codex/
+.codex-plugin/
+.agents/
+.mcp.json
+
+# Build artifacts
+build/
+dist/
+out/
+*.cf
+*.cfe
+*.epf
+*.erf
+*.dt
+
+# Local tools
+bsl-analyzer.exe
+*.lock
+
+# Local test payloads
+tests/*.jpg
+tests/*.jpeg
+tests/*.png
+tests/*.bin
+src/epf/
+
+# 1C temporary files and logs
+*.log
+*.tmp
+*.bak
+*.lgp
+*.pfl
+1Cv8Log/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.code-workspace
+
+# unica
+.build
+
+# claude 
+.claude
+CLAUDE.md
